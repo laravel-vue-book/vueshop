@@ -1,0 +1,40 @@
+[2019-07-29 04:46:30.213] [exthost] [info] extension host started
+[2019-07-29 04:46:30.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.242] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-29 04:46:30.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.246] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2019-07-29 04:46:30.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.254] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/git/dist/main
+[2019-07-29 04:46:30.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.287] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2019-07-29 04:46:30.291] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.291] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/alefragnani.bookmarks-10.4.4/dist/extension
+[2019-07-29 04:46:30.296] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.296] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-07-29 04:46:30.329] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.329] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-07-29 04:46:30.449] [exthost] [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:30.450] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/tombonnike.vscode-status-bar-format-toggle-1.5.0/out/src/extension
+[2019-07-29 04:46:30.475] [exthost] [info] eager extensions activated
+[2019-07-29 04:46:37.112] [exthost] [info] extension host started
+[2019-07-29 04:46:37.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.190] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-29 04:46:37.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.194] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2019-07-29 04:46:37.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.202] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/git/dist/main
+[2019-07-29 04:46:37.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.230] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code 2.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2019-07-29 04:46:37.233] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.233] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/alefragnani.bookmarks-10.4.4/dist/extension
+[2019-07-29 04:46:37.246] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.246] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-07-29 04:46:37.263] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.264] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-07-29 04:46:37.365] [exthost] [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle {"startup":true,"activationEvent":"*"}
+[2019-07-29 04:46:37.365] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/tombonnike.vscode-status-bar-format-toggle-1.5.0/out/src/extension
+[2019-07-29 04:46:37.399] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":true,"activationEvent":"workspaceContains:README.md"}
+[2019-07-29 04:46:37.399] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/yzhang.markdown-all-in-one-2.4.2/dist/extension
+[2019-07-29 04:46:37.507] [exthost] [info] eager extensions activated
+[2019-07-29 04:46:42.595] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-07-29 04:46:42.595] [exthost] [info] ExtensionService#loadCommonJSModule /Users/hafidmukhlasin/.vscode/extensions/octref.vetur-0.21.1/dist/client/vueMain

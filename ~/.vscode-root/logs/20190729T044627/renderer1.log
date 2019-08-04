@@ -1,0 +1,2 @@
+[2019-07-29 04:46:42.827] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/Users/hafidmukhlasin/Dev/vue-projects/vueshop/.vscode'
+[2019-07-29 04:46:42.828] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/Users/hafidmukhlasin/Dev/vue-projects/vueshop/.vscode'
